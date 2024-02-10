@@ -14,7 +14,7 @@ The insights from my analysis will feed into the supermarket’s strategic plan 
 
 - I have received the following email from the manager, Zilinka.(Virtual and Standard Email)
 
-""" 'Hi, 
+- 'Hi, 
 
 - Welcome again to the team, we love having new graduates join us! 
 
@@ -40,7 +40,8 @@ The insights from my analysis will feed into the supermarket’s strategic plan 
   - The Category Manager for Chips, has asked us to test the impact of the new trial layouts with a data driven recommendation to whether or not the trial layout should be rolled out to all their stores.
 
 I-  have received the following email from Zilinka.
-Hi, 
+
+- Hi, 
 
 - Thanks for your feedback earlier, I’m glad you find my follow up emails helpful in ensuring your on the right track.
 
